@@ -11,7 +11,7 @@
 * BEHAGUE CYPRIEN : https://github.com/CyprienBehague/MyRepository.git
 * BEUNS VIANNEY : 
 * BORÉE CYPRIEN : 
-* CAPON THÉO : 
+* CAPON THÉO : https://github.com/TheoCapon/TDD.git
 * CHOUKHI SOFIAN : https://github.com/sofian-choukhi/TP-TDD.git
 * DEVOS THIBAUT : 
 * DIABAT  MELVIN : https://github.com/melvindiabat/tp-tdd.git
@@ -26,7 +26,7 @@
 * MAERTEN MÉLISSA : 
 * MARLIOT THIBAULT : 
 * MILLOT  THOMAS : 
-* MUDRY QUENTIN : https://github.com/Quentin-Mudry/Chiffreromains.git
+* MUDRY QUENTIN : 
 * OURIZAT MAXENCE : https://github.com/MaxenceOurizat/Tdd.git
 * PLAISANCE BAPTISTE : https://github.com/titiss28/Plaisance-Baptiste.git
 * ROCA  VINCENT : 
